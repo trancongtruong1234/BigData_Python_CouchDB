@@ -1,4 +1,4 @@
-# The programe to connect and CURD data in couchDB
+# The programe to connect and CURD data in couchDB by Python
 - Connect python - CouchDB
 - Insert data (json file) into CouchDB
 - Exec query select, field, sort,...
